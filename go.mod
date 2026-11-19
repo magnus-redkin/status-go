@@ -116,6 +116,7 @@ require (
 )
 
 require (
+	github.com/logos-messaging/logos-delivery-go-bindings v0.0.0-20261121175759-3671b3c728a7
 	github.com/logos-storage/logos-storage-go-bindings v0.0.30
 	go.opentelemetry.io/otel v1.37.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.34.0
